@@ -2,6 +2,8 @@
 
 ## *A master repository for my personal projects, from suspension components to mechanical keyboards.*
 
++ FSAE Ergonomics Design Team Lead 2022-Current - Senior Design in progress
+
 ### Solidworks Projects
 + FSAE Student Suspension Development
 + Junior Design - Pick and Place Robot
